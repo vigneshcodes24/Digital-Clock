@@ -1,0 +1,25 @@
+
+body{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(85,37,75,1) 48%, rgba(0,212,255,1) 100%);  
+}
+
+h1{
+    text-align: center;
+    color: beige;
+    font-size: 100px;
+}
+
+.container{
+    color: beige;
+   text-align: center;
+   font-size: 50px;
+   padding-bottom: 155px;
+   padding-top: 155px;
+}
+
+h2{
+  font-size: 50px;
+  color: beige;
+  text-align: center;
+}
